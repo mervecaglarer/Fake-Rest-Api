@@ -1,0 +1,178 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "first_name": "Kip",
+      "last_name": "Girardi",
+      "email": "kgirardi1@ox.ac.uk",
+      "gender": "Non-binary",
+      "roleId": 3
+    },
+    {
+      "id": 3,
+      "first_name": "Allsun",
+      "last_name": "Roots",
+      "email": "aroots2@sakura.ne.jp",
+      "gender": "Bigender",
+      "roleId": 1
+    },
+    {
+      "id": 4,
+      "first_name": "Binni",
+      "last_name": "Hrus",
+      "email": "bhrus3@independent.co.uk",
+      "gender": "Bigender",
+      "roleId": 3
+    },
+    {
+      "id": 5,
+      "first_name": "Malvina",
+      "last_name": "Bosse",
+      "email": "mbosse4@bloglovin.com",
+      "gender": "Bigender",
+      "roleId": 1
+    },
+    {
+      "id": 6,
+      "first_name": "Chaim",
+      "last_name": "Kubec",
+      "email": "ckubec5@deviantart.com",
+      "gender": "Polygender",
+      "roleId": 1
+    },
+    {
+      "id": 7,
+      "first_name": "Joannes",
+      "last_name": "Capun",
+      "email": "jcapun6@hibu.com",
+      "gender": "Genderqueer",
+      "roleId": 3
+    },
+    {
+      "id": 8,
+      "first_name": "Derrick",
+      "last_name": "Wellman",
+      "email": "dwellman7@google.es",
+      "gender": "Genderqueer",
+      "roleId": 1
+    },
+    {
+      "id": 9,
+      "first_name": "Brody",
+      "last_name": "Gaskarth",
+      "email": "bgaskarth8@blogtalkradio.com",
+      "gender": "Female",
+      "roleId": 3
+    },
+    {
+      "id": 10,
+      "first_name": "TEST",
+      "last_name": "Phalip",
+      "email": "test@ihg.com",
+      "gender": "Bigender",
+      "roleId": 3
+    },
+    {
+      "id": 11,
+      "first_name": "Bone",
+      "last_name": "Burge",
+      "email": "bburgea@topsy.com",
+      "gender": "Non-binary",
+      "roleId": 3
+    },
+    {
+      "id": 12,
+      "first_name": "Davin",
+      "last_name": "Grigorey",
+      "email": "dgrigoreyb@house.gov",
+      "gender": "Male",
+      "roleId": 1
+    },
+    {
+      "id": 13,
+      "first_name": "Teddy",
+      "last_name": "Larne",
+      "email": "tlarnec@boston.com",
+      "gender": "Agender",
+      "roleId": 3
+    },
+    {
+      "id": 14,
+      "first_name": "Kanya",
+      "last_name": "Shirlaw",
+      "email": "kshirlawd@comcast.net",
+      "gender": "Non-binary",
+      "roleId": 3
+    },
+    {
+      "id": 15,
+      "first_name": "Kinsley",
+      "last_name": "Tatam",
+      "email": "ktatame@vinaora.com",
+      "gender": "Agender",
+      "roleId": 3
+    },
+    {
+      "id": 16,
+      "first_name": "Merla",
+      "last_name": "Bogies",
+      "email": "mbogiesf@ihg.com",
+      "gender": "Female",
+      "roleId": 1
+    },
+    {
+      "id": 17,
+      "first_name": "Cornelia",
+      "last_name": "Chipp",
+      "email": "cchippg@netscape.com",
+      "gender": "Bigender",
+      "roleId": 3
+    },
+    {
+      "id": 18,
+      "first_name": "Gerri",
+      "last_name": "Longmaid",
+      "email": "glongmaidh@reference.com",
+      "gender": "Male",
+      "roleId": 3
+    },
+    {
+      "id": 19,
+      "first_name": "Marlie",
+      "last_name": "Bovingdon",
+      "email": "mbovingdoni@scribd.com",
+      "gender": "Bigender",
+      "roleId": 2
+    },
+    {
+      "id": 20,
+      "first_name": "Darbie",
+      "last_name": "Quodling",
+      "email": "dquodlingj@ocn.ne.jp",
+      "gender": "Female",
+      "roleId": 2
+    },
+    {
+      "first_name": "Hieronymus",
+      "last_name": "Kosiada",
+      "email": "hkosiadak@sciencedaily.com",
+      "gender": "Bigender",
+      "roleId": 2,
+      "id": 21
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "Manager"
+    },
+    {
+      "id": 2,
+      "name": "Engineer"
+    },
+    {
+      "id": 3,
+      "name": "Intern"
+    }
+  ]
+}
